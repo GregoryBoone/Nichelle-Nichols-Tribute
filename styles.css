@@ -1,0 +1,30 @@
+.about{
+  color: lightgreen;
+}
+a{
+  text-decoration: none;
+}
+body{
+  background-color: black;
+  /*
+  background-image: url(https://s3.wp.wsu.edu/uploads/sites/2797/2022/03/space.jpg);
+  background-position: center;
+background-origin: content-box;
+background-repeat: no-repeat;
+background-color: black; */
+}
+header{
+  color: lightgreen;
+}
+footer{
+  color: lightgreen;
+  display: flex;
+  justify-content: center;
+}
+#img-caption{
+  color: lightgreen;
+}
+.profile{
+  width: 300px;
+  padding-left: 25px;
+}
